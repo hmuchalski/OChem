@@ -154,38 +154,36 @@ This gets you into a *feedback loop*, a conversation between you and me about yo
 
 This is not as weird as it sounds. **It's actually the way all human learning works, and the way most professionals are evaluated in their work**. It only seems strange because it's not how school is typically done. But school and the real world are, well, not necessarily aligned. We will take the "real world" approach. Keep reading for more details.
 
-## How each assignment is graded
+### How each assignment is graded
 
-| Assignment       | How it's graded                                              | What's recorded in Canvas.                                      |  
-| :--------------- | :----------------------------------------------------------- | :-------------------------------------------------------------- |  
-| Daily Prep       | Completeness and effort only                                 | `1` for complete, good-faith effort; `0` otherwise              |  
-| Learning Targets | Completeness and correctness                                 | *Successful* or *Retry* (see below)                             |
-| IPs              | Completeness, effort, correctness, and communication quality | `E`, `M`, `R`, or `N` (see below)                               |  
-| Final exam       | Completeness, effort and correctness                         | Points, 70 maximum                                              |  
+Refer to the table for an overview of who each assignment is graded. Details are explained below. 
 
-### Learning Targets
+| Assignment       | How it's graded                                      | What's recorded in Canvas.                         |  
+| :--------------- | :--------------------------------------------------- | :------------------------------------------------- |  
+| Daily Prep       | Completeness and effort only                         | `1` for complete, good-faith effort; `0` otherwise |  
+| Learning Targets | Completeness and correctness                         | *Successful* or *Retry* (see below)                |  
+| IPs              | Completeness, effort, correctness, and communication | `E`, `M`, `R`, or `N` (see below)                  |  
+| Final exam       | Completeness and correctness                         | Points, 70 maximum                                 |  
 
-Your primary responsibility in the course is to demonstrate your achievement of Learning Targets. The primary way you'll demonstrate skill is through *Learning Target Tests* given at the end of each class meeting. Each test contains problems, one per Learning Target. Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. 
+#### Learning Targets
+
+Your primary responsibility in the course is to demonstrate your achievement of Learning Targets. The primary way you'll demonstrate skill is through *Learning Target Tests* given at the end of each class meeting. Each test will contain a pool problems, one per Learning Target. Each _Learning Target Test_ is cumulative, meaning the number of LT problems will grow as we cover more material. Problems for _new_ LTs will be added along with _new versions_ of LTs that are already in the pool. 
+
+Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. *Successful* does not mean _error-free_. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](link) for detailed description of criteria for success.
+
+Alternatively, you can demonstrate your skill on a Learning target via an oral quiz of sorts. I will give you a new version of a problem, and you work it out on the board "live". 
 
 :::info
-*Successful* does not mean _error-free_. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](link) for detailed description of criteria for success.
+**Important**: Each _Learning Target_ requires two successful demonstrations of skill. Then, the Target is considered **completed** and no further assessment on that target is necessary.
 :::
 
-Your skill on each Learning Target is indicated in the gradebook, a separate entry for each LT. There are three ratings available:
+#### Integrated Problems (IPs)
 
-- **No Rating**. A blank entry or zero will appear in the gradebook if you have not yet attempted a Learning Target through a Checkpoint. Everyone begins the semester with "No Rating" on all Learning Targets.
-- **Proficiency.** The first time you solve a Checkpoint problem assessing a Learning Target and the solution meets standards for acceptable work, you will "level up" to *Proficiency*. It will be indicated in the gradebook as "1". 
-- **Mastery.** The second time your submitted solution to a Checkpoint problem assessing a Learning Target meets standards for acceptable work, you will "level up" to *Mastery*. It will be indicated in the gradebook as "2" and you don't have to be tested on that LT anymore. 
+Course grade of B or better asks you to show acceptable work on at least one Integrated Problem (IP). These problems involve a written solution as well as commentary that guides the reader throught the work. The process of assigning these marks is shown on the rubric diagram below:
 
-The pool of LT problems will grow as time goes by, with new Learning Targets added but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you did not "level up" on yet. Work that meets the criteria will be given a *satisfactory* score. Work that does not meet the criteria can be attempted again at later checkpoint (see the [Revision](revisions) policy for details.
+![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
 
-## Scoring of IPs and the EMPX rubric
-
-Work on Integrated Problems (IPs) is scored not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets Expetations), "P" (Progressing), or "X" (Not Assessable). Whenever your work on an IP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown on the rubric diagram below:
-
-![EMPX rubric](./empx-rubric-v2021.png)
-
-## Revisions and reassessment {#revisions}
+<!-- ## Revisions and reassessment {#revisions}
 
 You can reattempt Learning Target problems which you did not master yet at a later *Checkpoint*. IPs earning M, P, or X can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. Only three IP may be submitted for grading per week. This can be a mix of new submissions and revisions. One additional submission can be purchased with a [token](#tokens) (below). A token is required to revise IPs that were scored as "X" (Not Assessable).
 
@@ -197,13 +195,11 @@ Tokens are a fake currency that are used to "purchase" exceptions to course poli
 + revise an IP scored as "X"; and
 + extend the checkpoint deadline by 1 hour.
 
-Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *Checkpoint* deadline extension.
+Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *Checkpoint* deadline extension. -->
 
-## Final letter grade
+### Final letter grade
 
-Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met.
-
-The mastery-based grading system insists that you show consistent excellence in all assignments in the course. That is, an outstanding work on IPs, for example, does not “bring up” poor work on LTs. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "either M or E".
+Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "M" or better (either "M" or "E").
 
 | Category               | D               | C  | B   | A       |  
 | ---------------------- | --------------- | -- | --- | ------- |  
@@ -215,13 +211,19 @@ The mastery-based grading system insists that you show consistent excellence in 
 <!--                     | Perusall points | 6  | 9   | 12      | 15 | -->  
 | Final Exam (ACS)       | 21              | 28 | 35  | 42      |  
 
-Read the example on the next page and referring back to the table above try to determine the final letter grade.
+:::success
+**Example**: At the end of the semester Alex accomplished the following:
 
-### Example
+- completed 14 out of 16 Daily Prep assignments;
+- completed (= done two successful demonstrations of skill on) 12 Learning Targets, including all CORE LTs; 
+- submitted 3 IPs (one graded "E", two graded "M");
+- collected 30 mechanisms in the Portfolio; and
+- earned 54 points on the final exam.
 
-At the end of the semester Alex earned 54 points on the final exam, 30 mechanisms in the Porfrolio as well as three IPs (one graded "E", two graded "M"). Alex achieved *Mastery* on 12 Learning Targets including all CORE targets.[^7659a235]
+Looking across the column for grade of "B", Alex satisfied all the requirements for that grade. Although Alex's work on Daily Preps, IPs, and the final exam is at grade "A" level, not all requirements for "A" are met, and Alex earns "B" in the course. 
 
-[^7659a235]: The final grade in the course for Alex will be "B", because Alex did not meet all requirements for A (minimum 13 LTs mastered). 
+**Important:** You can't make-up unsuccessful work on IPs, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_, only 14 of them (as long as all CORE LTs are among them).
+:::
 
 # Course policies
 
