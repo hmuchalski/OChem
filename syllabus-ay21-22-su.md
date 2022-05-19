@@ -208,7 +208,7 @@ Your course grade is determined using the table below. In order to earn a partic
 | All CORE Completed (7) | No              | No | Yes | Yes     |  
 | IP                     |                 |    | 1M+ | 1E, 1M+ |  
 | Mechanism Portfolio    | 14              | 20 | 26  | 32      |  
-<!--                     | Perusall points | 6  | 9   | 12      | 15 | -->  
+<!--                     | Perusall points | 6  | 9   | 12      | 15 | -->
 | Final Exam (ACS)       | 21              | 28 | 35  | 42      |  
 
 :::success
@@ -221,124 +221,149 @@ Your course grade is determined using the table below. In order to earn a partic
 - earned 54 points on the final exam.
 
 Looking across the column for grade of "B", Alex satisfied all the requirements for that grade. Although Alex's work on Daily Preps, IPs, and the final exam is at grade "A" level, not all requirements for "A" are met, and Alex earns "B" in the course. 
-
-**Important:** You can't make-up unsuccessful work on IPs, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_, only 14 of them (as long as all CORE LTs are among them).
 :::
 
-# Course policies
+:::info
+**Important:** You can't prop-up work on IPs, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_, only 14 of them (as long as all CORE LTs are among them). And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
+:::
 
-## Technology issues when submitting work
+## Revision and resubmission
 
-It is the student’s responsibility to make sure these items are submitted on time, even if technology issues arise. Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later, use different browser, upload to Google Drive and share a private link or send the file as an email attachment until you can upload it successfully.
+Except for Daily Prep and the Final Exam, you can revise and resubmit any work you turn in, _without penalty_, until it meets course standards. How this works depends on the assignment.
+
+**Learning Targets**. As detailed above, work on a Learning Target (via a quiz or other means) that doesn't meet the standards for "success" can be reattempted, through work on a new version of the same problem, on a later test or an oral quiz. No revisions are allowed after 12:15 pm PT on Friday, June 10.
+
+**Integrated Problems**. An IP earning a mark of M, R, or N can be revised and resubmitted by uploading a revised version of the work to the same Canvas location where it was originally submitted (Canvas automatically keeps all versions of all uploads). Only two IP submissions per week are allowed. This can be new submissions of two different problems, revisions of two different problems, or one new submission and one revision.
+
 
 ## Academic integrity
 
-Academic dishonesty carries with it strong punitive measures mandated by Fresno State policies, including possible automatic failure of the course or suspension from the university. Details are described in Academic Policy Manual 235 which you can read here: [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf). __Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.__
+:::warning
+This course  is subject to [Standards of Student Conduct](https://studentaffairs.fresnostate.edu/studentconduct/academic-integrity/) and  [The Code of Academic Integrity](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf). Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.
+:::
 
-Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do:
+Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the specific rules for the extend of collaboration on each kind of work you do:
 
-+ *Mechanism Portfolio*: You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording).
-+ *Checkpoints*, *IPs*, and *ACS exam*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
 
-### Resources you can and cannot use when submitting graded work
+| Assessment | Collaboration allowed |
+| :--------  | :--------------------- |
+| Daily Prep | Collaboration is allowed but responses must be your own and reflect your own understanding. |
+| Learning Targets | **No collaboration is allowed at all** with other people (including online forums such as Stack Exchange, Reddit, Chegg). You are allowed to use resources from the class such as the textbook, your notes, and your past quiz work. |
+| IPs | **No collaboration is allowed at all** with other people. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably journal articles, books). |
+| Mechanism Portfolio | You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording). |
+| Final Exam | **No collaboration is allowed at all**. |
 
-Here are the approved resources you can access on all _Checkpoints_:
+All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I suspect that academic dishonesty has been committed, a report will be filed with the Dean of Students office according to APM 235
 
-* the textbook;
-* video or document posted on Canvas site for this courses (but not other courses);
-* Perusall discussions and annotations;
-* slides, class meeting notes, and other materials generated during class time; and
-* class zoom recordings.
+:::info
+**Important:** There's no need to be academically dishonest here, because you can revise and resubmit almost everything. Rather than give into temptation to cheat, *ask questions and use the feedback loop* so that you really grow and learn in the course.
+:::
 
-**Any resource NOT included on this list is to be considered off-limits and not approved for use on Checkpoints. Evidence of using unapproved resources will be considered academic dishonesty.** This includes:
+## Course policies
 
-- solution websites such as Chegg;
-- other students in the class, or past students from other CHEM 128 classes; and
-- other textbooks or videos not included above.
+### Attendance and participation
 
-All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be:
+Attenance is expected at all class meetings. The pace of the course is such that missing a class will result in falling behind immediately, and it's very hard to recover given the compressed nature of the schedule. Attendance will be recorded so I can keep track of it.
 
-- "no pass" grade on a checkpoint and no possibility for retake;
-- grade of "N" on IP assignment and no possibility for revision; and
-- point deduction on final ACS exam.
+Participation is an essential element of attendance. As mentioned before, the class is designed using flipped learning model where the majority of in-class time is spent on active participation, as opposed to passive observation of the instructor lecturing from slides. 
 
-## Deadlines and late work
+### Absences
 
-Deadlines for course work are clearly indicated on the Course Calendar; in cases of apparent conflict between dates, always assume that the Course Calendar is right.
+If you must be absent, you do not need prior permission or justification; a heads-up is appreciated. However *please avoid any non-essential absences* such as skipping class, or scheduling a vacation during a day where class is scheduled. If you miss, you are solely responsible for catching up. 
 
-+ *Mechanism Portfolio and Perusall Activities*: No extensions to deadlines are available. Simply submit a good faith effort on all items by the deadline.
-+ *Checkpoints*: Submission window may be extended by spending a token. No other extensions are available.
-+ *IPs*: There is only one deadline for IP's: **Monday, July 19th, 2021 at 5 pm** Otherwise you simply submit your work when it is ready to be graded (subject to weekly limits). This deadline will not be extended.
+Missing a class meeting also means missing an opportunity to demonstrate skills on Learning Targets. There are no make-up LT test scheduled but if you miss class you can attempt LT problems at the next session.
 
-## Intellectual Property
+### Deadlines and late work
 
-As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+Deadlines for Daily Preps, IPs, and Mechanism Portfolios are listed on Canvas. In cases of apparent conflict between dates (different date on a description page and different in the calendar), always assume that the Course Calendar is right.
 
-## Dropping the course
+| Assignment | Deadline policy |
+| :--------- | :-------------- |
+| Daily Preps | Due at 11:59 pm the night before class. The deadline will not be extended. |
+| IPs | Due on the last day of Summer Intersession but there is a limit of how many you can submit for grading per week. If you plan to submit IP for grading, start early so you can act on the feedback. | 
+| Mechanism Portfolio | Deadline specified in Canvas. |
+
+### Technology issues when submitting work
+
+It is the student’s responsibility to make sure these items are submitted on time, even if technology issues arise. Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload work to Canvas and Canvas won’t accept the file, you should try again later, use different browser, upload to Google Drive and share a private link or send the file as an email attachment until you can upload it successfully.
+
+### Intellectual Property
+
+<!-- As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms.  -->
+Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+<!-- ## Dropping the course
 
 Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html).
 
-A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor. -->
 
 ## Changes to this syllabus
 
-Changes to this syllabus may occur during the term. In those cases, the changes will be announced in class and online, and if appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
+Changes to this syllabus may occur during the term. In those cases, the ==changes will highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
 
 ## Credits
 
-Large portions of the language of this syllabus as well as ideas related to mastery grading and flipped learning were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
+Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
 
-# University policies and disclaimers
+## University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
-- Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/](http://fresnostate.edu/studentaffairs/classschedule/policy/)
-- Copyright Policy: [http://libguides.csufresno.edu/copyright](http://libguides.csufresno.edu/copyright)
-- Students with Dissabilities: [http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
-- Academic Integrity: [http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
-- Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
-- Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/add-drop-deadlines.html](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
+- [Class Schedule Policies](http://fresnostate.edu/studentaffairs/classschedule/policy/)
+- [Copyright Policy](http://libguides.csufresno.edu/copyright)
+- [Services for Students with Dissabilities](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
+- [Academic Integrity](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
+- [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
+- [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
-\newpage
+<!-- ## About the instructor -->
 
-# Appendix A: Tentative Schedule of Course Modules
+## Appendix A: Tentative Schedule of Course Modules
 
-| Week | Module                                         | Text |
-|------|------------------------------------------------|------|
-|  1   | Course orientation                             |      |
-|      | Review of CHEM 128A                            | 1–11 |
-|      | Alcohols, phenols, and thiols                  | 12   |
-|      | Ethers, epoxides, and sulfides                 | 13   |
-|  2   | Infrared spectroscopy and mass spectrometry    | 14   |
-|      | NMR spectroscopy                               | 15   |
-|  3   | Conjugated pi systems and pericyclic reactions | 16   |
-|      | Structure and properties of aromatic compounds | 17   |
-|      | Reactions of aromatic compounds                | 18   |
-|  4   | Aldehydes and ketones                          | 19   |
-|      | Carboxylic acids and their derivatives         | 20   |
-|  5   | Enols and enolates                             | 21   |
+| Date      | Topics                                         | Chapter | LT Focus |
+|-----------|------------------------------------------------|---------|----------|
+| Mon 05/23 | Review of important concepts                   | 1–10    | 1–4      |
+| Tue 05/24 | Review of reactions from CHEM 128A             | 11–13   | 3–6      |
+| Wed 05/25 | Asynchronous activites                         | 1–13    | 7–9      |
+| Thu 05/26 | Spectroscopic methods                          | 14-15   | 7–9      |
+| Fri 05/27 | Spectrocsopic methods                          | 14-15   | 7–9      |
+| Mon 05/30 | NO CLASS Asynchronous activities               | 16-17   | 10–11    |
+| Tue 05/31 | Conjugated and aromatic systems                | 16-17   | 10–11    |
+| Wed 06/01 | Asynchronous activities                        | 16-18   | 10–12    |
+| Thu 06/02 | Reactions of aromatic compounds                | 17–18   | 10–12    |
+| Fri 06/03 | Addition to carbonyls (aldehydes and ketones)  | 19      | 13-14    |
+| Mon 06/06 | Carboxylic acids and their derivatives         | 20      | 13-14    |
+| Tue 06/07 | Enols and enolates                             | 21      | 1–14     |
+| Wed 06/08 | Asynchronous activities                        |         | 1–14     |
+| Thu 06/09 | Synthesis and review                           |         | 1–14     |
+| Fri 06/10 | Final exam and LT retakes                      |         |
 
 Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
 
 \newpage
 
-# Appendix B: List of Learning Targets{#appendix-a}
+<!-- Insert iframe of Google Calendar -->
 
-1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases.
-2. I can solve synthesis problems involving alkanes, alkyl halides, alkenes, and alkynes.
-3. **(CORE)** I can solve synthesis problems involving alcohols and ethers.
-4. **(CORE)** I can use curved arrow notation to draw mechanisms and explain reaction pathways in nucleophilic substitution and β-elimination reactions
-5. **(CORE)** I can analyze IR spectroscopy data to deduce the functional groups present in the analyzed sample.
-6. I can analyze MS fragmentation data to deduce the structure of the analyzed sample.
-7. I can analyze NMR spectroscopy data to elucidate the structure of organic compounds.
-8. I can use molecular orbital (MO) theory to explain reactivity and properties of organic molecules with conjugated pi systems.
-9. I can classify compounds as aromatic, antiaromatic, or non-aromatic.
-10. I can solve synthesis problems involving conjugated pi systems.
-11. **(CORE)** I can solve synthesis problems involving aromatic compounds.
-12. **(CORE)** I can use curved arrow notation to draw mechanisms and explain reaction pathways involving aromatic compounds.
-13. I can use the Brønsted–Lowry theory and Henderson–Hasselbalch equation to determine the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and select a suitable base/acid to steer the equilibrium.
-14. I can use retrosynthesis method and solve synthesis problems involving functional group interconversions and aromatic substitution reactions.
-15. I can use retrosynthesis method and solve synthesis problems involving functional group interconversions and enol/enolate-mediated C–C bond forming reactions.
+## Appendix B: List of Learning Targets{#appendix-a}
+
+1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
+2. I can use the Brønsted–Lowry theory and Henderson–Hasselbalch equation to determine the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution.
+3. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 1)
+4. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 1)
+5. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 2)
+6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 2)
+7. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 3)
+8. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 3)
+9. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
+10. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
+11. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
+12. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 4)
+13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 4)
+14. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 5)
+15. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 5)
+16. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 6)
+
 
 
 <!-- ## IP
