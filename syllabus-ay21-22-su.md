@@ -45,17 +45,17 @@ This document contains all the information you need to navigate the course. **Th
 This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
 :::
 
-**Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you may not have the access to the WileyPLUS platform (see below).
+**Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you may not have the access to the WileyPLUS platform.
 
-**WileyPLUS:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
+**WileyPLUS:** Online learning platform with e-textbook, practice problems, videos, etc. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas.
 
-**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device is an acceptable alternative, but the online homework platform is not optimized for mobile devices.
+**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform is not yet optimized for mobile devices.
 
 **A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 
-**Canvas:** The central repository for all course materials and information found here:  
-  [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
-<!-- **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it. -->
+**Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
+
+**Document scanning tool or a tablet with pen imput**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
@@ -67,12 +67,14 @@ In Organic Chemistry 2 you will **continue to learn about structure, properties,
 
 Before reading any further, here are some things to know:
 
-1. **The pace of this course is dangerously fast**. In one day is equivalent to one week of class during the regular semester. To reduce the risk of falling behind, check announcements and the calendar daily; get to work immediately on assignments; and above all stay active, ask questions and don't procrastinate. 
+1. **The pace of this course is dangerously fast**. One class meeting covers equivalent of one week of regular semester. Not only there is a lot of material introduced in a short amount of time, there is less time between classes. To reduce the risk of falling behind, check announcements and the calendar daily; get to work immediately on assignments; and above all stay active, ask questions and don't procrastinate. 
 2. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
 1. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn.
 3. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
 
-**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. **But I promise you that I will work to make CHEM 128B a class where you can make mistakes and grow safely and productively.** 
+:::info
+**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128B a class where you can make mistakes and grow safely and productively.
+:::
 
 ## Course goals
 
@@ -103,22 +105,22 @@ Our class meetings are very long (3 hours and 15 minutes). To maintain our energ
 
 | Time | Focus | 
 | :--- | :---- |
-| 09:00-09:30 | Q&A and review of the Daily Prep assignment followed by a 5-min break|
-| 09:30-10:00 | Focused group work on problems followed a 5-min break |
-| 10:00-10:30 | Focused group work on problems followed a 5-min break |
-| 10:30-11:00 | Focused group work on problems followed a 5-min break |
-| 11:00-11:30 | Summary of day's topics, wrap-up fo the day a 5-min break |
-| 11:30-12:15 | LT Checkpoint & Office Hours |
+| 09:00–09:30 | Q&A and review of the Daily Prep assignment followed by a 5-min break|
+| 09:30–10:00 | Focused group work on problems followed a 5-min break |
+| 10:00–10:30 | Focused group work on problems followed a 5-min break |
+| 10:30–11:00 | Focused group work on problems followed a 5-min break |
+| 11:00–11:30 | Summary of day's topics, wrap-up fo the day and a 5-min break to get ready for LT Test |
+| 11:30–12:15 | LT Test & Office Hours |
 
 **Before class**, your task will be to review previously covered material and get familiar with the basic concepts of the upcoming lesson by reading the appropriate sections in the textbook and completing **Daily Prep** assignment. This way, you'll come to class ready to work, and we can skip the lecturing in class unless it's really needed.
 
 **Class time** is intended to focus on *answering questions* and *doing active work*. There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems.
 
-**After class** you must continue to engage with the material through deliberate practice and reflection on the ideas discussed in class. As you study, you should write down your questions and put into words what you don't yet understand. There will occasionally be **Integrated Problems** (IPs) to work on as well (see below). 
+**After class** you must continue to engage with the material through deliberate practice and reflection on the ideas discussed in class. As you study, you should write down your questions and put into words what you don't yet understand. This is the time when you'll work on **Daily Prep** for the upcoming class as well as **Integrated Problems** (IPs). 
 
-### Wednesday
-
-_We will not meet on Wednesday_ to rest and regroup after Monday and Tuesday meetings. My hope is that you will use that time wisely, i.e., to study concepts, do practice problems, and reflect on feedback you receive from me. And of course, complete Daily Prep assignment for classes on Thursday and Friday. 
+:::info
+**No class meeting on Wednesday**. Use that day to to rest and regroup after Monday and Tuesday meetings. My hope is that you will use that time to study, do practice problems, and reflect on feedback you receive from me. And of course, complete Daily Prep assignment for classes on Thursday and Friday. 
+:::
 
 ## Learning activities and assessments
 
@@ -127,18 +129,16 @@ To achieve the learning objectives of this course you will do a variety of thing
 
 - **Daily Prep** are WileyPLUS assignments that lead you through an active reading of the textbook and videos. 
 - **Learning Targets** are main skills and tasks you should be able to do if you're achieving the learning objectives of the course. You will be asked to "demonstrate" your knowledge and skills mainly by taking short quizzes on them at regular intervals. 
-<!-- 2. **Perusall** is a tool for collective and collaborative reading and annotating. We will use Perusall to read and discuss class material. Hopefully you're reading this syllabus on Perusall right now and getting the idea of how it works. -->
-- **Mechanism Portfolio** is a collection of reaction mechanisms that you draw as you learn material in this course. Writing reaction mechanisms by using curved arrow notation will help you better understand reaction pathways.
-- **Integrated Problems (IPs)** are more challenging problems that cannot be confined to a single learning objective or textbook chapter. The correctness of the solution and clarity of communication are equally important. 
+- **Integrated Problems (IPs)** are more challenging homework problems that cannot be confined to a single learning objective or textbook chapter. The correctness of the solution and clarity of communication are equally important. 
 - **Final exam** will be on **Friday, June 10th, 2022 at 9:00 am**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society.
 
-## The grading system in CHEM 128B {#grading}
+## The grading system in CHEM 128B
 
-:::info
+:::warning
 Grading in this course is different than you might be used to. Please read this section carefully and ask questions as needed. 
 :::
 
-As a teacher and learner, I strongly believe that **learning takes time** and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve **multiple attempts** that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe you should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course. 
+As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe you should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course. 
 
 I also strongly believe that *assigning points to your work is deeply unhelpful* for all parties involved. Points give the appearance of a scientific measurement, but in reality *all grading involves a judgment call by the instructor* based on their professional expertise. And points lead to arguments about points and grades (unhelpful) rather than learning and knowledge (helpful). I believe your work should be evaluated by just like everyone else's work in the real world is evaluated, i.e., by giving you: 
 
@@ -148,7 +148,7 @@ I also strongly believe that *assigning points to your work is deeply unhelpful*
  
 This gets you into a *feedback loop*, a conversation between you and me about your work, that continues until your work meets the standards (or we reach the end of the semester). In light of the principles outlined above, in this course:
 
-* *there are no points on your work* except for Daily Preps and the final exam. (Daily Prep is recorded 0 or 1 but that's not a point, that's a "yes/no" label.); 
+* *there are no points on your work* except for the final exam. (Daily Preps use 0 or 1 but that's not a point, that's a label.); 
 * *there is also no partial credit* awarded on your work, because there's no points; and
 * students can *revise and resubmit almost any piece of work*, several times over if needed, using the feedback at each stage to improve and grow.
 
@@ -169,9 +169,12 @@ Refer to the table for an overview of who each assignment is graded. Details are
 
 Your primary responsibility in the course is to demonstrate your achievement of Learning Targets. The primary way you'll demonstrate skill is through *Learning Target Tests* given at the end of each class meeting. Each test will contain a pool problems, one per Learning Target. Each _Learning Target Test_ is cumulative, meaning the number of LT problems will grow as we cover more material. Problems for _new_ LTs will be added along with _new versions_ of LTs that are already in the pool. 
 
-Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. *Successful* does not mean _error-free_. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](link) for detailed description of criteria for success.
+Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. Alternatively, you can demonstrate your skill on a Learning target via an oral quiz of sorts. I will give you a new version of a problem, and you work it out on the board "live". 
 
-Alternatively, you can demonstrate your skill on a Learning target via an oral quiz of sorts. I will give you a new version of a problem, and you work it out on the board "live". 
+:::success
+**_Successful_ does not mean error-free**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](link) for detailed description of criteria for success.
+:::
+
 
 :::info
 **Important**: Each _Learning Target_ requires two successful demonstrations of skill. Then, the Target is considered **completed** and no further assessment on that target is necessary.
@@ -183,20 +186,6 @@ Course grade of B or better asks you to show acceptable work on at least one Int
 
 ![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
 
-<!-- ## Revisions and reassessment {#revisions}
-
-You can reattempt Learning Target problems which you did not master yet at a later *Checkpoint*. IPs earning M, P, or X can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. Only three IP may be submitted for grading per week. This can be a mix of new submissions and revisions. One additional submission can be purchased with a [token](#tokens) (below). A token is required to revise IPs that were scored as "X" (Not Assessable).
-
-## Tokens {#tokens}
-
-Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with five tokens which can be spent for any of the following at any time:
-
-+ submit additional IP (either revision or new submission) in a given week;
-+ revise an IP scored as "X"; and
-+ extend the checkpoint deadline by 1 hour.
-
-Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *Checkpoint* deadline extension. -->
-
 ### Final letter grade
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "M" or better (either "M" or "E").
@@ -206,18 +195,15 @@ Your course grade is determined using the table below. In order to earn a partic
 | Daily Prep (16)        | 5               | 8  | 11  | 14      |  
 | LTs Completed (16)     | 5               | 8  | 11  | 14      |  
 | All CORE Completed (7) | No              | No | Yes | Yes     |  
-| IP                     |                 |    | 1M+ | 1E, 1M+ |  
-| Mechanism Portfolio    | 14              | 20 | 26  | 32      |  
-<!--                     | Perusall points | 6  | 9   | 12      | 15 | -->
+| Integrated Problems    |                 |    | 1M+ | 1E, 1M+ |  
 | Final Exam (ACS)       | 21              | 28 | 35  | 42      |  
 
 :::success
 **Example**: At the end of the semester Alex accomplished the following:
 
 - completed 14 out of 16 Daily Prep assignments;
-- completed (= done two successful demonstrations of skill on) 12 Learning Targets, including all CORE LTs; 
-- submitted 3 IPs (one graded "E", two graded "M");
-- collected 30 mechanisms in the Portfolio; and
+- completed (= done two successful demonstrations of skill on) 13 Learning Targets, including all CORE LTs; 
+- submitted 3 IPs (one graded "E", two graded "M"); and
 - earned 54 points on the final exam.
 
 Looking across the column for grade of "B", Alex satisfied all the requirements for that grade. Although Alex's work on Daily Preps, IPs, and the final exam is at grade "A" level, not all requirements for "A" are met, and Alex earns "B" in the course. 
@@ -250,7 +236,6 @@ Some of the work you will do in the course involves collaboration; at other time
 | Daily Prep | Collaboration is allowed but responses must be your own and reflect your own understanding. |
 | Learning Targets | **No collaboration is allowed at all** with other people (including online forums such as Stack Exchange, Reddit, Chegg). You are allowed to use resources from the class such as the textbook, your notes, and your past quiz work. |
 | IPs | **No collaboration is allowed at all** with other people. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably journal articles, books). |
-| Mechanism Portfolio | You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording). |
 | Final Exam | **No collaboration is allowed at all**. |
 
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I suspect that academic dishonesty has been committed, a report will be filed with the Dean of Students office according to APM 235
@@ -275,13 +260,12 @@ Missing a class meeting also means missing an opportunity to demonstrate skills 
 
 ### Deadlines and late work
 
-Deadlines for Daily Preps, IPs, and Mechanism Portfolios are listed on Canvas. In cases of apparent conflict between dates (different date on a description page and different in the calendar), always assume that the Course Calendar is right.
+Deadlines for Daily Preps, and IPs are listed on Canvas. In cases of apparent conflict between dates (different date on a description page and different in the calendar), always assume that the Course Calendar is right.
 
 | Assignment | Deadline policy |
 | :--------- | :-------------- |
 | Daily Preps | Due at 11:59 pm the night before class. The deadline will not be extended. |
 | IPs | Due on the last day of Summer Intersession but there is a limit of how many you can submit for grading per week. If you plan to submit IP for grading, start early so you can act on the feedback. | 
-| Mechanism Portfolio | Deadline specified in Canvas. |
 
 ### Technology issues when submitting work
 
@@ -300,11 +284,11 @@ A *serious and compelling reason* is defined as an unexpected condition that is 
 
 ## Changes to this syllabus
 
-Changes to this syllabus may occur during the term. In those cases, the ==changes will highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
+Changes to this syllabus may occur during the term. In those cases, the ==changes will be highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
 
-## Credits
+## Acknowledgments
 
-Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
+Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) and David Clarck (Grand Valley University).
 
 ## University policies and disclaimers
 
@@ -322,7 +306,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
 ## Appendix A: Tentative Schedule of Course Modules
 
 | Date      | Topics                                         | Chapter | LT Focus |
-|-----------|------------------------------------------------|---------|----------|
+|:----------|:-----------------------------------------------|---------|----------|
 | Mon 05/23 | Review of important concepts                   | 1–10    | 1–4      |
 | Tue 05/24 | Review of reactions from CHEM 128A             | 11–13   | 3–6      |
 | Wed 05/25 | Asynchronous activites                         | 1–13    | 7–9      |
@@ -345,7 +329,7 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 
 <!-- Insert iframe of Google Calendar -->
 
-## Appendix B: List of Learning Targets{#appendix-a}
+## Appendix B: List of Learning Targets
 
 1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
 2. I can use the Brønsted–Lowry theory and Henderson–Hasselbalch equation to determine the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution.
