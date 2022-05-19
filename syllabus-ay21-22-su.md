@@ -10,7 +10,7 @@ This document contains all the information you need to navigate the course. **Th
 
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
-+ Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](). The Class Page will also contain links to daily assignments, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
++ Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://hackmd.io/@hmuchalski/HJGEmMjKd). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
 + Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
 ## TL;DR
