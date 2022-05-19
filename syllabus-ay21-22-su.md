@@ -9,19 +9,18 @@ tags: 128b, summer, syllabus
 This document contains all the information you need to navigate the course. **This syllabus is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 
-+ When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for a cat video](https://www.youtube.com/watch?v=aFuUidBR1aQ).
++ When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
 + Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](). The Class Page will also contain links to daily assignments, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
-+ The syllabus is available in electronic form and as a PDF. The electronic version will be consistently updated as needed, with updates ==highlighted yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
++ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
 ## TL;DR
 
 - I want you to succeed. Your classmates want you to succeed.
 - Organic chemistry is a hard subject. This is especially true for an intense intersession course (1 day = 1 week of regular semester).
-- This course is designed according to _flipped learning_ model. It doesn't mean it is asynchronous.
-- This course uses an alternative grading system called _growth grading_. There are no points and no partial credit.  
-- Your learning will be assessed with Learning Target problems, homework assignments (IPs), and a final exam (multiple choice ACS exam).
-- It doesn't matter what textbook you use but official text (Klein 4 ed) has some perks and is easily obtained via Kennel Bookstore.
-- Course ends with a final exam on Friday 6/10 at 9 am.
+- This course is designed according to _flipped learning_ model. 
+- Meetings are in-person with some online asynchronous components.
+- This course uses an alternative grading system called _growth grading_. There are no points and no partial credit but students have many chances to show skill and knowledge.
+- Course ends with a final exam on Friday 6/10 at 12 pm.
 
 
 ## Key information
@@ -31,10 +30,10 @@ This document contains all the information you need to navigate the course. **Th
 | Semester     | 2022 Spring Intersession                               |  
 | Units        | 3                                                      |  
 | Department   | Chemistry and Biochemistry                             |  
-| Time         | MTRF 9:00–12:15         |  
-| Location     | IT 294                                                 |  
+| Time         | MTRF 9:00–12:15                                        |
+| Location     | Industrial Technology 294                              |  
 | Instructor   | Dr. Hubert Muchalski                                   |  
-| Email        | hmuchalski@mail.fresnostate.edu |  
+| Email        | hmuchalski@mail.fresnostate.edu                        |  
 | Office phone | 559-278-2711                                           |  
 | Office       | Science 1, room 352                                    |  
 | Office hours | after class and by appointment                         |  
@@ -266,6 +265,12 @@ Deadlines for Daily Preps, and IPs are listed on Canvas. In cases of apparent co
 | :--------- | :-------------- |
 | Daily Preps | Due at 11:59 pm the night before class. The deadline will not be extended. |
 | IPs | Due on the last day of Summer Intersession but there is a limit of how many you can submit for grading per week. If you plan to submit IP for grading, start early so you can act on the feedback. | 
+
+### Instructor availability and message responses
+
+You have a right and the responsibility to ask a question about anything you don't fully understand, at any time. To ask me questions, you can use email, zoom office hours, or appointments.  
+
+I do not always respond to all messages immediately because I have to prioritize a number of tasks throughout the week that make demands on my time; and I do not leave my email open all day. I typically respond to email **once per day** in the late afternoon. If you send a message on a weekday (Monday through Friday) before 3:00 pm PT, it will get a **same-day response**. Messages sent after 3:00pm on Fridays or on the weekends will get a response **no later than the following Monday afternoon**. 
 
 ### Technology issues when submitting work
 
