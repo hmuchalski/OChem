@@ -2,7 +2,21 @@
 tags: 128b, summer, syllabus
 ---
 
-# CHEM 128B Syllabus, Spring Intersession 2022
+# Course Syllabus
+
+| CHEM 128B    | Organic Chemistry 2 (lecture)   |  
+| :----------- | :------------------------------ |  
+| Semester     | 2022 Summer Intersession        |  
+| Units        | 3                               |  
+| Department   | Chemistry and Biochemistry      |  
+| Time         | MTRF 9:00–12:15                 |  
+| Location     | Industrial Technology 294       |  
+| Instructor   | Dr. Hubert Muchalski            |  
+| Email        | hmuchalski@mail.fresnostate.edu |  
+| Office phone | 559-278-2711                    |  
+| Office       | Science 1, room 352             |  
+| Office hours | after class and by appointment  |  
+
 
 ## How to use this syllabus
 
@@ -13,40 +27,30 @@ This document contains all the information you need to navigate the course. **Th
 + Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://hackmd.io/@hmuchalski/HJGEmMjKd). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
 + Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
-## TL;DR
+## About the course
 
-- I want you to succeed. Your classmates want you to succeed.
-- Organic chemistry is a hard subject. This is especially true for an intense intersession course (1 day = 1 week of regular semester).
-- This course is designed according to _flipped learning_ model. 
-- Meetings are in-person with some online asynchronous components.
-- This course uses an alternative grading system called _growth grading_. There are no points and no partial credit but students have many chances to show skill and knowledge.
-- Course ends with a final exam on Friday 6/10 at 12 pm.
+In Organic Chemistry 2 you will **continue to learn about structure, properties, and reactivity of organic compounds**. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
+Before reading any further, here are some things to know:
 
-## Key information
+1. **The pace of this course is dangerously fast**. One class meeting covers equivalent of one week of regular semester. Not only there is a lot of material introduced in a short amount of time, there is less time between classes. To reduce the risk of falling behind, check announcements and the calendar daily; get to work immediately on assignments; and above all stay active, ask questions and don't procrastinate. 
+2. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
+3. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn.
+4. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
 
-| CHEM 128B    | Organic Chemistry 2 (lecture)                          |  
-| ------------ | :------------------------------------------------------|  
-| Semester     | 2022 Spring Intersession                               |  
-| Units        | 3                                                      |  
-| Department   | Chemistry and Biochemistry                             |  
-| Time         | MTRF 9:00–12:15                                        |
-| Location     | Industrial Technology 294                              |  
-| Instructor   | Dr. Hubert Muchalski                                   |  
-| Email        | hmuchalski@mail.fresnostate.edu                        |  
-| Office phone | 559-278-2711                                           |  
-| Office       | Science 1, room 352                                    |  
-| Office hours | after class and by appointment                         |  
+:::info
+**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128B a class where you can make mistakes and grow safely and productively.
+:::
 
 ### Course materials and technology
-
-:::info 
-This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
-:::
 
 **Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you may not have the access to the WileyPLUS platform.
 
 **WileyPLUS:** Online learning platform with e-textbook, practice problems, videos, etc. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas.
+
+:::info 
+This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
+:::
 
 **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform is not yet optimized for mobile devices.
 
@@ -57,23 +61,6 @@ This course is part of the Immediate Access program. All students have access to
 **Document scanning tool or a tablet with pen imput**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
-
-[^WileyPLUS-version]: WileyPLUS version must be the same as the official edition of the textbook (4th ed.). If you opt out of Immediate Access and buy the textbook and access to WileyPLUS through other means, make sure that your access code is for the 4th edition of the textbook.
-
-## About the course
-
-In Organic Chemistry 2 you will **continue to learn about structure, properties, and reactivity of organic compounds**. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
-
-Before reading any further, here are some things to know:
-
-1. **The pace of this course is dangerously fast**. One class meeting covers equivalent of one week of regular semester. Not only there is a lot of material introduced in a short amount of time, there is less time between classes. To reduce the risk of falling behind, check announcements and the calendar daily; get to work immediately on assignments; and above all stay active, ask questions and don't procrastinate. 
-2. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
-1. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn.
-3. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
-
-:::info
-**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128B a class where you can make mistakes and grow safely and productively.
-:::
 
 ## Course goals
 
