@@ -1,5 +1,6 @@
 ---
 tags: 128b, summer, syllabus
+title: Course Syllabus (CHEM 128B)
 ---
 
 # Course Syllabus
@@ -20,7 +21,7 @@ tags: 128b, summer, syllabus
 
 ## How to use this syllabus
 
-This document contains all the information you need to navigate the course. **This syllabus is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
+This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
@@ -58,7 +59,7 @@ This course is part of the Immediate Access program. All students have access to
 
 **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 
-**Document scanning tool or a tablet with pen imput**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
+**Document scanning tool or a tablet with pen imput**: Assignments in this course are handwritten on paper and some assignments are uploaded to Canvas as PDF. A mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
@@ -274,14 +275,6 @@ Dates and details on withdrawing from courses are described on the [Admissions w
 
 A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor. -->
 
-## Changes to this syllabus
-
-Changes to this syllabus may occur during the term. In those cases, the ==changes will be highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
-
-## Acknowledgments
-
-Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) and David Clarck (Grand Valley University).
-
 ## University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
@@ -293,7 +286,18 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - [Policy on Cheating and Plagiarism](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
 - [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
-<!-- ## About the instructor -->
+:::info
+Changes to this syllabus may occur during the term. In those cases, the ==changes will be highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
+:::
+
+## FAQ
+
+## Acknowledgments
+
+Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clarck (Grand Valley University).
+
+<!-- ## About the instructor 
+_WHO-bert_ _moo-HAL-ski_-->
 
 ## Appendix A: Tentative Schedule of Course Modules
 
@@ -317,8 +321,6 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
 
-\newpage
-
 <!-- Insert iframe of Google Calendar -->
 
 ## Appendix B: List of Learning Targets
@@ -340,6 +342,59 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 15. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 5)
 16. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 6)
 
+### Reaction and Mechanism Groups
+
+#### Reaction Group 1
+- formation of alkyl halides via radical-mediated reactions (Ch10)
+- nucleophilic substitution (SN1, SN2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch12, Ch13)
+
+#### Reaction Group 2
+- Reaction Group 1
+- elimination reactions (E1, E2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch8, Ch12)
+- addition to C–C pi bonds (Ch8, Ch9, Ch12, Ch13)
+
+#### Reaction Group 3
+- Reaction Group 2
+- Redox transformations of alcohols
+- Grignard reaction with carbonyls and epoxides
+- Formation and cleavage of ethers and epoxides
+
+#### Reaction Group 4
+- Reaction Group 3
+- reactions of conjugated pi systems (addition and pericyclic reactions)
+- reactions at the benzylic position
+- reactions of aromatic compounds
+
+#### Reaction Group 5
+- Reaction Group 4
+- reactions at carbonyl carbon (ketone/aldehyde oxidation state)
+- reactions involving carboxylic acids and their derivatives
+
+#### Reaction Group 6
+- Reaction Group 5
+- reactions at alpha carbon (enols, enolates, and equivalents)
+- reactions of amines
+
+#### Mechanism Group 1
+- substitution reactions
+- carbocation-mediated reactions
+
+#### Mechanism Group 2
+- bimolecular elimination reactions
+- Hoffmann elimination of tertiary amines
+
+#### Mechanism Group 3
+- Grignard reaction
+- reactions involving formation and/or opening of strained rings (bromonium, mercurinium, epoxides)
+
+
+#### Mechanism Group 4
+- addition to C–C pi bonds of alkenes and alkynes including conjugated pi systems
+- cycloaddition and electrocyclic reactions
+
+#### Mechanism Group 5
+- reactions involving aromatic/antiaromatic intermediates
+- substitution reactions at aromatic ring
 
 
 <!-- ## IP

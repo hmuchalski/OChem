@@ -1,16 +1,26 @@
 ---
 tags: 128b, ay21-22, intersession, class-page 
-title: "CHEM 128B Class Page (AY21-22 Spring Intersession)"
+title: "CHEM 128B Course Page (AY21-22 Spring Intersession)"
 ---
 
-# CHEM 128B Class Page
+# CHEM 128B Course Page (AY21-22 Spring Intersession)
 
-<!-- ## Key Links
+## Quick Navigation
 
-| | | |
+| :blue_book: [ Syllabus](https://hackmd.io/@hmuchalski/SkIyq3fD5) | :calendar: [Schedule](https://hackmd.io/@hmuchalski/SkIyq3fD5#Appendix-A-Tentative-Schedule-of-Course-Modules) | :open_book: [pKa table](https://drive.google.com/file/d/1PsNzPbsWCnUwkhMfoYgaHrq5IZoiw_2R/view?usp=sharing) |
 | :--: | :--: | :--: |
-| :blue_book: [Syllabus]() | :calendar: [Calendar]() | :trophy:	 [Learning Targets]() |
-| :link:  [Virtual Office Hours Zoom]() (TBD) |  :question:  [Padlet for Questions]() |
-| :book: [Textbook]() | :tv: [Videos]() |:label: [Standards for Assessments](https://hackmd.io/@rtalbert235/Bys_sKSBc) | 
-| :computer:  [WileyPLUS]() | :muscle: Daily Prep -- Located in your [Perusall account](http://app.perusall.com) | :bar_chart: AEPs
-| [Instructions for alternative Learning Target assessments](/gZhPoxR-QWq1g4jM9tr30A) | :ticket:  [Exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSe6hA4qkqVf8julz8i-J46875xAtHmJrr0TLIYeuG5Z_el75g/viewform)  | [Grading Status board]() |  -->
+|:trophy: [Learning Targets](https://hackmd.io/@hmuchalski/SkIyq3fD5#Appendix-B-List-of-Learning-Targets) | :label: [Standards for Assessments](https://hackmd.io/@hmuchalski/BJKWouND5)  |  :microphone: Oral LT test |
+| :green_book: [IR Reference](https://drive.google.com/file/d/1R71H1KwAEgj8gII_sgnnz-yGdnM1cbaX/view?usp=sharing)| :orange_book: [MS Reference](https://drive.google.com/file/d/1UNvjKxk68KFg-wRXUqC0PezoJ9VeQbfS/view?usp=sharing) | :blue_book: [1H NMR Reference](https://drive.google.com/file/d/19EsbNJHXSBMq5BFl0-YzCEIiWm7auMsv/view?usp=sharing) |
+| :floppy_disk: [Google Drive](https://drive.google.com/drive/folders/1JfxsNPzEBP8rreynWx4HjlkQc4YZkIdA?usp=sharing)| :cinema: [Zoom Link](https://fresnostate.zoom.us/my/hubertmuchalski?pwd=RE1Ib3ordGRrRnhIeklvQml4Uy96UT09) | :ticket:  [Exit ticket]()  |
+
+
+<!-- ## Week 1 -->
+
+
+
+<!-- 
+
+:calendar: [Calendar]()
+
+
+ -->
