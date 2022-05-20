@@ -158,7 +158,7 @@ Your primary responsibility in the course is to demonstrate your achievement of 
 Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. Alternatively, you can demonstrate your skill on a Learning target via an oral quiz of sorts. I will give you a new version of a problem, and you work it out on the board "live". 
 
 :::success
-**_Successful_ does not mean error-free**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](link) for detailed description of criteria for success.
+**_Successful_ does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](https://hackmd.io/@hmuchalski/BJKWouND5) for detailed description of criteria for success.
 :::
 
 
