@@ -304,19 +304,19 @@ _WHO-bert_ _moo-HAL-ski_-->
 | Date      | Topics                                         | Chapter | LT Focus |
 |:----------|:-----------------------------------------------|---------|----------|
 | Mon 05/23 | Review of important concepts                   | 1–10    | 1–4      |
-| Tue 05/24 | Review of reactions from CHEM 128A             | 11–13   | 3–6      |
-| Wed 05/25 | Asynchronous activites                         | 1–13    | 7–9      |
-| Thu 05/26 | Spectroscopic methods                          | 14-15   | 7–9      |
-| Fri 05/27 | Spectrocsopic methods                          | 14-15   | 7–9      |
-| Mon 05/30 | NO CLASS Asynchronous activities               | 16-17   | 10–11    |
-| Tue 05/31 | Conjugated and aromatic systems                | 16-17   | 10–11    |
-| Wed 06/01 | Asynchronous activities                        | 16-18   | 10–12    |
-| Thu 06/02 | Reactions of aromatic compounds                | 17–18   | 10–12    |
-| Fri 06/03 | Addition to carbonyls (aldehydes and ketones)  | 19      | 13-14    |
-| Mon 06/06 | Carboxylic acids and their derivatives         | 20      | 13-14    |
-| Tue 06/07 | Enols and enolates                             | 21      | 1–14     |
-| Wed 06/08 | Asynchronous activities                        |         | 1–14     |
-| Thu 06/09 | Synthesis and review                           |         | 1–14     |
+| Tue 05/24 | Chemistry of alcohols and ethers               | 11–13   | 3–8      |
+| Wed 05/25 | Asynchronous activites                         | 1–13    | 9–11     |
+| Thu 05/26 | Spectroscopic methods                          | 14-15   | 9–11     |
+| Fri 05/27 | Spectrocsopic methods                          | 14-15   | 9–11     |
+| Mon 05/30 | NO CLASS Asynchronous activities               | 16-17   | 12–13    |
+| Tue 05/31 | Conjugated and aromatic systems                | 16-17   | 12–13    |
+| Wed 06/01 | Asynchronous activities                        | 16-18   | 12–13    |
+| Thu 06/02 | Reactions of aromatic compounds                | 17–18   | 12–13    |
+| Fri 06/03 | Addition to carbonyls (aldehydes and ketones)  | 19      | 14-15    |
+| Mon 06/06 | Carboxylic acids and their derivatives         | 20      | 14-15    |
+| Tue 06/07 | Enols and enolates                             | 21      | 14–16    |
+| Wed 06/08 | Asynchronous activities                        |         | 1–16     |
+| Thu 06/09 | Synthesis and review                           |         | 1–16     |
 | Fri 06/10 | Final exam and LT retakes                      |         |
 
 Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
@@ -326,42 +326,43 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 ## Appendix B: List of Learning Targets
 
 1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
-2. I can use the Brønsted–Lowry theory and Henderson–Hasselbalch equation to determine the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution.
-3. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 1)
-4. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 1)
-5. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 2)
-6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 2)
-7. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 3)
-8. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 3)
+2. I can explain how different factors influence acid–base equilibrium. I can use acid–base theories to predict the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and how protonation state is correlated with solubility.
+3. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 1_)
+4. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
+5. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
+6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 2_)
+7. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
+8. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
 9. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
 10. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
 11. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
-12. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (Reaction Group 4)
-13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 4)
-14. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (Mechanism Group 5)
-15. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 5)
-16. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (Reaction Group 6)
+12. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 4_)
+13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 4_)
+14. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (_Reaction Group 5_)
+15. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 5_)
+16. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (_Reaction Group 6_)
 
 ### Reaction and Mechanism Groups
 
 #### Reaction Group 1
 - formation of alkyl halides via radical-mediated reactions (Ch10)
 - nucleophilic substitution (SN1, SN2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch12, Ch13)
+- elimination reactions (E1, E2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch8, Ch12)
 
 #### Reaction Group 2
 - Reaction Group 1
-- elimination reactions (E1, E2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch8, Ch12)
 - addition to C–C pi bonds (Ch8, Ch9, Ch12, Ch13)
+- Redox transformations of alcohols
+- Grignard reaction with carbonyls and epoxides
 
 #### Reaction Group 3
 - Reaction Group 2
-- Redox transformations of alcohols
-- Grignard reaction with carbonyls and epoxides
-- Formation and cleavage of ethers and epoxides
+- formation and cleavage of ethers and epoxides
+- addition reactions of conjugated pi systems
 
 #### Reaction Group 4
 - Reaction Group 3
-- reactions of conjugated pi systems (addition and pericyclic reactions)
+- pericyclic reactions
 - reactions at the benzylic position
 - reactions of aromatic compounds
 
@@ -378,24 +379,23 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 #### Mechanism Group 1
 - substitution reactions
 - carbocation-mediated reactions
+- bimolecular elimination reactions including Hoffmann elimination of tertiary amines
 
 #### Mechanism Group 2
-- bimolecular elimination reactions
-- Hoffmann elimination of tertiary amines
-
-#### Mechanism Group 3
-- Grignard reaction
+- Grignard reaction with carbonyls and epoxides
 - reactions involving formation and/or opening of strained rings (bromonium, mercurinium, epoxides)
 
-
-#### Mechanism Group 4
+#### Mechanism Group 3
 - addition to C–C pi bonds of alkenes and alkynes including conjugated pi systems
 - cycloaddition and electrocyclic reactions
 
-#### Mechanism Group 5
+#### Mechanism Group 4
 - reactions involving aromatic/antiaromatic intermediates
 - substitution reactions at aromatic ring
 
+#### Mechanism Group 5
+- reactions involving enols, enolates, enamines, etc.
+- reactions of amines
 
 <!-- ## IP
 
