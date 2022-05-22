@@ -3,9 +3,9 @@ tags: 128b, summer, syllabus
 title: Course Syllabus (CHEM 128B)
 ---
 
-# Course Syllabus
+# Course Syllabus (CHEM 128B)
 
-| CHEM 128B    | Organic Chemistry 2 (lecture)   |  
+| Course Name  | Organic Chemistry 2 (lecture)   |  
 | :----------- | :------------------------------ |  
 | Semester     | 2022 Summer Intersession        |  
 | Units        | 3                               |  
