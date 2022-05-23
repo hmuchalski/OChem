@@ -180,8 +180,8 @@ Your course grade is determined using the table below. In order to earn a partic
 | Category               | D               | C  | B   | A       |  
 | ---------------------- | --------------- | -- | --- | ------- |  
 | Daily Prep (16)        | 5               | 8  | 11  | 14      |  
-| LTs Completed (16)     | 5               | 8  | 11  | 14      |  
-| All CORE Completed (7) | No              | No | Yes | Yes     |  
+| LTs Completed (==15==)     | 5               | ==7==  | ==10==   | ==13==      |  
+| All CORE Completed (6) | No              | No | Yes | Yes     |  
 | Integrated Problems    |                 |    | 1M+ | 1E, 1M+ |  
 | Final Exam (ACS)       | 21              | 28 | 35  | 42      |  
 
@@ -189,7 +189,7 @@ Your course grade is determined using the table below. In order to earn a partic
 **Example**: At the end of the semester Alex accomplished the following:
 
 - completed 14 out of 16 Daily Prep assignments;
-- completed (= done two successful demonstrations of skill on) 13 Learning Targets, including all CORE LTs; 
+- completed (= done two successful demonstrations of skill on) 12 Learning Targets, including all CORE LTs; 
 - submitted 3 IPs (one graded "E", two graded "M"); and
 - earned 54 points on the final exam.
 
@@ -330,10 +330,10 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 ## Appendix B: List of Learning Targets
 
 1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
-2. I can explain how different factors influence acid–base equilibrium. I can use acid–base theories to predict the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and how protonation state is correlated with solubility.
+2. ==~~I can explain how different factors influence acid–base equilibrium. I can use acid–base theories to predict the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and how protonation state is correlated with solubility.~~==
 3. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 1_)
-4. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
-5. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
+5. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
+4. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
 6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 2_)
 7. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
 8. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
