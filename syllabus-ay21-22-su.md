@@ -292,6 +292,10 @@ Changes to this syllabus may occur during the term. In those cases, the ==change
 
 ## FAQ
 
+- **Q: I understand that a computer will be required to complete homework and other course work. Should I expect to bring my laptop to class everyday?**
+	+ **A**: Most in-class activities will be paper-based but often will require looking up information in the textbook. I suggest having a device, preferably a laptop. 
+- 
+
 ## Acknowledgments
 
 Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clarck (Grand Valley University).

@@ -29,7 +29,7 @@ Both **written and oral quizzes** are graded on the basis of *completeness and c
 | **Successful** | <ul><li>Each part of the problem has a good-faith attempt at a response, *and*</li><li>The response contains **no more than two simple errors**, and **no non-simple errors**, *and*</li><li>Unless specifically stated otherwise, the response must show all the significant steps used to arrive at the answers.</li></ul>
 | **Retry** | Not all the standards for "Successful" are met. | 
 
-:::note
+:::info
 **Note:** The above are *general* criteria for successful demonstrations of skill on a quiz problem. Some quiz problems may have different or more targeted criteria that will be clearly stated on the quiz. 
 :::
 
@@ -51,7 +51,7 @@ IP solutions are graded on the basis of *completeness, correctness, and communic
 
 ### Specific requirements for "Meets Expectations"
 
-:::info
+:::success
 Note: **The audience for all IP solutions is your classmates** --- people who have the background mathematical knowledge that you have, but who have no familiarity with the problem you are working on. **The instructor (prof. Muchalski) not the audience, and neither are you**---so don't assume that the person reading the solution has a Ph.D. in organic chemistry or has been studying the problem for a while. 
 ::: 
 
