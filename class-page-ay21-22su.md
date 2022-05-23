@@ -14,9 +14,11 @@ title: "CHEM 128B Course Page (AY21-22 Spring Intersession)"
 | :floppy_disk: [Google Drive](https://drive.google.com/drive/folders/1JfxsNPzEBP8rreynWx4HjlkQc4YZkIdA?usp=sharing)| :cinema: [Zoom Link](https://fresnostate.zoom.us/my/hubertmuchalski?pwd=RE1Ib3ordGRrRnhIeklvQml4Uy96UT09) | :ticket:  [Exit ticket]()  |
 
 
-<!-- ## Week 1 -->
+## Week 1
 
+### Monday, May 23rd
 
+- [Review of CHEM 128A (PDF)](https://drive.google.com/file/d/16POsi4IYdEK9DPhVawrqlpMSkW7Y_1CT/view?usp=sharing)
 
 <!-- 
 
