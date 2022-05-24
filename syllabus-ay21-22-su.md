@@ -177,13 +177,13 @@ Course grade of B or better asks you to show acceptable work on at least one Int
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "M" or better (either "M" or "E").
 
-| Category               | D               | C  | B   | A       |  
-| ---------------------- | --------------- | -- | --- | ------- |  
-| Daily Prep (16)        | 5               | 8  | 11  | 14      |  
-| LTs Completed (==15==)     | 5               | ==7==  | ==10==   | ==13==      |  
-| All CORE Completed (6) | No              | No | Yes | Yes     |  
-| Integrated Problems    |                 |    | 1M+ | 1E, 1M+ |  
-| Final Exam (ACS)       | 21              | 28 | 35  | 42      |  
+| Category               | D  | C     | B      | A       |  
+| ---------------------- | -- | ----- | ------ | ------- |  
+| Daily Prep (16)        | 5  | 8     | 11     | 14      |  
+| LTs Completed (==15==) | 5  | ==7== | ==10== | ==13==  |  
+| All CORE Completed (6) | No | No    | Yes    | Yes     |  
+| Integrated Problems    |    |       | 1M+    | 1E, 1M+ |  
+| Final Exam (ACS)       | 21 | 28    | 35     | 42      |  
 
 :::success
 **Example**: At the end of the semester Alex accomplished the following:
@@ -331,16 +331,16 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 
 1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
 2. ==~~I can explain how different factors influence acid–base equilibrium. I can use acid–base theories to predict the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and how protonation state is correlated with solubility.~~==
-3. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 1_)
-5. **CORE** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
-4. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
+3. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 1_)
+4. **(CORE)** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
+5. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
 6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 2_)
-7. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
-8. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
-9. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
-10. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
-11. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
-12. **CORE** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 4_)
+7. I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
+8. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
+9. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
+10. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
+11. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
+12. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 4_)
 13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 4_)
 14. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (_Reaction Group 5_)
 15. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 5_)
@@ -349,13 +349,12 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 ### Reaction and Mechanism Groups
 
 #### Reaction Group 1
-- formation of alkyl halides via radical-mediated reactions (Ch10)
 - nucleophilic substitution (SN1, SN2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch12, Ch13)
 - elimination reactions (E1, E2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch8, Ch12)
+- ==addition to C–C pi bonds (Ch8, Ch9, Ch12, Ch13)==
 
 #### Reaction Group 2
 - Reaction Group 1
-- addition to C–C pi bonds (Ch8, Ch9, Ch12, Ch13)
 - Redox transformations of alcohols
 - Grignard reaction with carbonyls and epoxides
 
@@ -387,7 +386,7 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 
 #### Mechanism Group 2
 - Grignard reaction with carbonyls and epoxides
-- reactions involving formation and/or opening of strained rings (bromonium, mercurinium, epoxides)
+- reactions involving formation of ethers and/or opening of strained rings (bromonium, mercurinium, epoxides)
 
 #### Mechanism Group 3
 - addition to C–C pi bonds of alkenes and alkynes including conjugated pi systems
