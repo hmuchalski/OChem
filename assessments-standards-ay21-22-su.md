@@ -33,6 +33,13 @@ Both **written and oral quizzes** are graded on the basis of *completeness and c
 **Note:** The above are *general* criteria for successful demonstrations of skill on a quiz problem. Some quiz problems may have different or more targeted criteria that will be clearly stated on the quiz. 
 :::
 
+### Alternative ways to demonstrate skill
+
+:::success
+You can demonstrate your skill and knowledge by taking an **oral quiz**. In this option, you schedule time with me to meet before or after class, during which I’ll give you a new instance of a problem, and you work it out “live”.
+
+:::
+
 ### What is a "simple error"?
 
 For CHEM 128B, a "simple" error is defined to be *an error in logic, computation, or communication that does not pertain to the learning target and does not oversimplify the problem*.
