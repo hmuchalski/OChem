@@ -335,10 +335,10 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 4. **(CORE)** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
 5. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
 6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 2_)
-7. I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
-8. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
-9. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
-10. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
+7. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
+8. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
+9. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
+10. I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
 11. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
 12. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 4_)
 13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 4_)
