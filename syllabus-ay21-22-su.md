@@ -361,11 +361,11 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 #### Reaction Group 3
 - Reaction Group 2
 - formation and cleavage of ethers and epoxides
-- addition reactions of conjugated pi systems
+- addition reactions of conjugated pi systems ==(including cycloaddition)==
 
 #### Reaction Group 4
 - Reaction Group 3
-- pericyclic reactions
+- ~~pericyclic reactions~~
 - reactions at the benzylic position
 - reactions of aromatic compounds
 

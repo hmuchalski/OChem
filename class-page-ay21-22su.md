@@ -15,7 +15,13 @@ title: "CHEM 128B Course Page (AY21-22 Spring Intersession)"
 
 ## Week 2
 
+<!-- ### Day 6 (Thursday, 2022-06-02) -->
+
+<!-- **Summary**:  -->
+
 ### Day 5 (Tuesday, 2022-05-31)
+
+**Summary**: We began the class meeting with another super long, but much needed (at least according to students who filled out [Exit ticket](https://forms.gle/CzTZfqpdtVE6hZgR8) :ticket:) review of fundamentals of beta-elimination reaction (E2). Specifically, we reviewed stereospecificity of the mechanism and how the beta-proton must be *anti* to the leaving group. Then we discussed cycloaddition reactions, including stereochemistry requirements, before finishing with another LT session. 
 
 
 ## Week 1
