@@ -183,7 +183,7 @@ Your course grade is determined using the table below. In order to earn a partic
 | LTs Completed (==15==) | 5  | ==7== | ==10== | ==13==  |  
 | All CORE Completed (6) | No | No    | Yes    | Yes     |  
 | Integrated Problems    |    |       | 1M+    | 1E, 1M+ |  
-| Final Exam (ACS)       | 21 | 28    | 35     | 42      |  
+| ~~Final Exam (ACS)~~       | ~~21~~ | ~~28~~    | ~~35~~     | ~~42~~      |  
 
 :::success
 **Example**: At the end of the semester Alex accomplished the following:
@@ -223,7 +223,7 @@ Some of the work you will do in the course involves collaboration; at other time
 | Daily Prep | Collaboration is allowed but responses must be your own and reflect your own understanding. |
 | Learning Targets | **No collaboration is allowed at all** with other people (including online forums such as Stack Exchange, Reddit, Chegg). You are allowed to use resources from the class such as the textbook, your notes, and your past quiz work. |
 | IPs | **No collaboration is allowed at all** with other people. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably journal articles, books). |
-| Final Exam | **No collaboration is allowed at all**. |
+| ~~Final Exam~~ | ~~**No collaboration is allowed at all**.~~ |
 
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I suspect that academic dishonesty has been committed, a report will be filed with the Dean of Students office according to APM 235
 
@@ -294,7 +294,6 @@ Changes to this syllabus may occur during the term. In those cases, the ==change
 
 - **Q: I understand that a computer will be required to complete homework and other course work. Should I expect to bring my laptop to class everyday?**
 	+ **A**: Most in-class activities will be paper-based but often will require looking up information in the textbook. I suggest having a device, preferably a laptop. 
-- 
 
 ## Acknowledgments
 
@@ -321,7 +320,7 @@ _WHO-bert_ _moo-HAL-ski_-->
 | Tue 06/07 | Enols and enolates                             | 21      | 14–16    |
 | Wed 06/08 | Asynchronous activities                        |         | 1–16     |
 | Thu 06/09 | Synthesis and review                           |         | 1–16     |
-| Fri 06/10 | Final exam and LT retakes                      |         |
+| Fri 06/10 | ~~Final exam and~~ LT retakes                      |         |
 
 Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
 
